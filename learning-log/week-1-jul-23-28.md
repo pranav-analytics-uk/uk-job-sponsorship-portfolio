@@ -11,6 +11,8 @@
 ### SQL Learning
 - [x] YouTube SELECT basics (July 23, 15 mins)
 - [x] YouTube WHERE clause (July 23, 20 mins)
+- [x] YouTube Basic Queries (July 23, 12 mins)
+- [x] YouTube Functions/Aggregation (July 23, 19 mins)
 - [ ] JOIN clause (target July 24)
 - [ ] Aggregation (target July 25)
 - [ ] Window functions (target July 26)
@@ -27,3 +29,6 @@
 - SQL SELECT retrieves columns, WHERE filters rows
 - AND/OR operators combine multiple conditions
 - LIKE uses wildcards (% for any characters)
+- SUM, COUNT, AVG, MAX, MIN aggregate numbers
+- GROUP BY groups results by column values
+- Aggregation is core to all analytics dashboards
