@@ -100,3 +100,48 @@
 - Total: 2.5-3 hours
 
 ### 🔥 Energy Level: 8/10
+
+---
+
+## Day 3: Monday, Aug 17 (Morning Session)
+
+### ✅ COMPLETED TASKS
+
+**Task 1: SQL Query Optimization Learning (60 mins)**
+- Watched: Video on execution plans (10 mins)
+- Learned: EXPLAIN QUERY PLAN command in SQLite
+- Key concepts: SCAN vs SEARCH, Indexes, Query execution
+
+**Task 2: Query Optimization Practice (90 mins)** ⭐
+- Practice Query #1: Subquery vs JOIN
+  - Slow: SCAN TABLE (checks all rows)
+  - Fast: SEARCH TABLE with JOIN (direct lookup)
+  - Learning: JOINs are faster than IN subqueries
+  
+- Practice Query #2: INDEX Usage
+  - Slow: No index = SCAN TABLE
+  - Fast: CREATE INDEX = SEARCH TABLE USING INDEX
+  - Learning: Indexes dramatically speed up WHERE clauses
+  
+- Practice Query #3: SELECT * vs Specific Columns
+  - Slow: SELECT * (unnecessary data)
+  - Fast: SELECT specific columns (reduced overhead)
+  - Learning: Only fetch what you need
+
+- Created: SQL_Queries/week-1-query-optimization-practice.sql
+
+### 📚 KEY LEARNINGS
+- SCAN TABLE = inefficient (checks every row)
+- SEARCH TABLE = efficient (uses index/smart lookup)
+- JOINs > Subqueries for performance
+- Indexes on WHERE columns are critical
+- SELECT specific columns, not *
+- EXPLAIN QUERY PLAN reveals bottlenecks
+
+### 📊 PROGRESS
+- Week 1 Target: 15 hours
+- Completed: Day 1 (1.5 hrs) + Day 2 (4.5 hrs) + Day 3 (2.5 hrs) = **8.5 hours** ✅
+- Remaining: 6.5 hours
+- SQL Optimization: ✅ MASTERED
+
+### 🔥 Energy Level: 9/10
