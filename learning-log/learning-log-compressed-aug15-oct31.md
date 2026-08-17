@@ -103,7 +103,7 @@
 
 ---
 
-## Day 3: Monday, Aug 17 (Morning Session)
+## Day 3: Monday, Aug 17 (Full Day Session)
 
 ### ✅ COMPLETED TASKS
 
@@ -130,6 +130,16 @@
 
 - Created: SQL_Queries/week-1-query-optimization-practice.sql
 
+**Task 3: Google Analytics 4 (GA4) Setup (60 mins)** 📊
+- Set up GA4 account successfully
+- **Measurement ID:** G-PCGVLWPZF8
+- Explored Reports section:
+  - User Behaviour reports
+  - Sales and Revenue tracking
+  - Marketing Performance metrics
+- Created: projects/project-1-analytics-dashboard/GA4_SETUP.md
+- Learned: GA4 structure and available metrics for Project 1
+
 ### 📚 KEY LEARNINGS
 - SCAN TABLE = inefficient (checks every row)
 - SEARCH TABLE = efficient (uses index/smart lookup)
@@ -137,11 +147,25 @@
 - Indexes on WHERE columns are critical
 - SELECT specific columns, not *
 - EXPLAIN QUERY PLAN reveals bottlenecks
+- GA4 is the foundation for Project 1 dashboard
+- Measurement ID is how GA4 tracks website data
+- GA4 reports show: User behavior, Revenue, Attribution
 
 ### 📊 PROGRESS
 - Week 1 Target: 15 hours
-- Completed: Day 1 (1.5 hrs) + Day 2 (4.5 hrs) + Day 3 (2.5 hrs) = **8.5 hours** ✅
-- Remaining: 6.5 hours
+- Completed: Day 1 (1.5 hrs) + Day 2 (4.5 hrs) + Day 3 (3.5 hrs) = **9.5 hours** ✅
+- Remaining: 5.5 hours
 - SQL Optimization: ✅ MASTERED
+- GA4 Setup: ✅ COMPLETED
+
+### 📁 GitHub Commits Today
+1. "Add SQL query optimization practice queries - Aug 17"
+2. "Add GA4 setup documentation for Project 1 - Aug 17"
+
+### 📝 TOMORROW (Tuesday, Aug 18)
+- Python fundamentals introduction
+- Start Project 1 data collection strategy
+- HubSpot certification study prep (Week 2-3)
+- Total: 2-3 hours
 
 ### 🔥 Energy Level: 9/10
